@@ -5,7 +5,6 @@ import tensorflow as tf
 from helper import train_helper as th
 from helper import config
 from model_runner.klstm.kfl_QRf import Model as kfl_QRf
-from model_runner.klstm.kfl_Rf_mdn import Model as kfl_Rf
 from model_runner.klstm.kfl_QRFf import Model as kfl_QRFf
 from model_runner.klstm.kfl_K import Model as kfl_K
 from model_runner.lstm.tf_lstm import Model as lstm
